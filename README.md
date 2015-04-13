@@ -1,2 +1,0 @@
-# VagrantEjemplo
-Ejemplo de Vagrant
